@@ -1,0 +1,14 @@
+This is List of Tutorial :
+
+1. Introduction : https://youtu.be/JTI7e0TD-P4
+2. Part of Rules : https://youtu.be/TsPTBKPV_Z4
+3. Text Properties : https://youtu.be/olF-MsJ4y3w
+4. Padding : https://youtu.be/6NxtNjovQXo
+5. Margin : https://youtu.be/Kfvvn6ztWtk
+6. Font Properties : https://youtu.be/WmqTAkfobMw
+7. Div : https://youtu.be/stz5p8_6y_0
+8. Color Name and Code : https://youtu.be/uJ1dhrXjWCc
+9. Class and Span : https://youtu.be/IyaameIBRHA
+10. Border : https://youtu.be/V220-DYX-QY
+
+if you like, please support my channel. Subsribe, Like and Share!
